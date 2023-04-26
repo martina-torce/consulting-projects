@@ -5,4 +5,4 @@ The dataset was obtained on Kaggle [here](https://www.kaggle.com/datasets/jackso
 
 ### View my analysis here:  
 [Client Slide Deck (.pdf)](https://github.com/martina-torce/data-analytics/blob/main/Preventing%20Turnover%20of%20High-Performing%20Employees/Client%20Slide%20Deck.pdf)  
-[Python Code (.ipynb)](https://github.com/martina-torce/data-analytics/blob/main/Preventing%20Turnover%20of%20High-performance%20Employees/Python%20code.ipynb)
+[Python Code (.ipynb)](https://github.com/martina-torce/data-analytics/blob/main/Preventing%20Turnover%20of%20High-Performing%20Employees/Python%20code.ipynb)
