@@ -4,5 +4,5 @@ This analysis consists of recommendations for a large company which is experienc
 The dataset was obtained on Kaggle [here](https://www.kaggle.com/datasets/jacksonchou/hr-data-for-analytics).
 
 ### View my analysis here:  
-[Client Slide Deck (.pdf)](https://github.com/martina-torce/data-analytics/blob/main/Preventing%20Turnover%20of%20High-performance%20Employees/Client%20Slide%20Deck.pdf)  
+[Client Slide Deck (.pdf)](https://github.com/martina-torce/data-analytics/blob/main/Preventing%20Turnover%20of%20High-Performing%20Employees/Client%20Slide%20Deck.pdf)  
 [Python Code (.ipynb)](https://github.com/martina-torce/data-analytics/blob/main/Preventing%20Turnover%20of%20High-performance%20Employees/Python%20code.ipynb)
